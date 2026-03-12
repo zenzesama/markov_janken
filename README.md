@@ -35,6 +35,6 @@ I intend to refine this a little more, so I'll make a changelog here.
    - You can now see what moves of yours markov predicted by using the -lp flag (short for learned patterns). Btw this entire file output system, like making the markov_patterns.txt file and saving was made with Deepseek, I tried making it myself but wasted 5 hours on it for some reason :100: .
     
  - 6 
-   - [Rewrote entire thing in python](https://github.com/zenze-sama/markov-janken-pygame) and deployed on web with wasm
+   - [Rewrote entire thing in python](https://github.com/zenzesama/markov-janken-pygame) and deployed on web with wasm
 
 </details>
